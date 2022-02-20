@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Github](https://img.shields.io/badge/-Github-FCA121?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
   
 </div>
@@ -31,6 +31,6 @@
 
 ### Stats ⚡
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=project-mizzu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=project-mizzu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,ObjectiveC%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
-<img src="https://activity-graph.herokuapp.com/graph?username=project-mizzu&theme=react-dark&bg_color=20232a&hide_border=true" width="804px"/>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=project-mizzu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=project-mizzu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,ObjectiveC%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
+<img src="https://activity-graph.herokuapp.com/graph?username=project-mizzu&theme=react-dark&bg_color=20232a&hide_border=true" width="704px"/>
