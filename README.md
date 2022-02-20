@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MinjuPark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minju-park-29174122b/)](https://www.linkedin.com/in/minju-park-29174122b/)
 [![Instagram Badge](https://img.shields.io/badge/-project.mizzu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/project.mizzu/)](https://www.instagram.com/project.mizzu/)
 [![Gmail Badge](https://img.shields.io/badge/-project.mizzu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:project.mizzu@gmail.com)](project.mizzu@gmail.com)
+[![](https://img.shields.io/badge/-project.mizzu-%23282C34?style=flat-square&logo=github)](https://github.com/project-mizzu)
 
 </div>  
   
