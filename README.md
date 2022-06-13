@@ -1,7 +1,7 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=project-mizzu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=https://github.com/project-mizzu&descAlignY=52&descAlign=66)
-### Hi! hello? <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi! hello? 👋
 
 <div>
 
